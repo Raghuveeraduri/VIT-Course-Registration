@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455835923493",
+    "project_id": "practice-digital-assignment-2",
+    "storage_bucket": "practice-digital-assignment-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455835923493:android:f7517ad10dcf44c9c8fbcc",
+        "android_client_info": {
+          "package_name": "com.example.pract_da2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455835923493-keltqvl29gdbmhq1jaajd921n20hgecf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tKDjLYIgDIvBCeez8Epg_OnQdSiQP7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455835923493-keltqvl29gdbmhq1jaajd921n20hgecf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
